@@ -108,7 +108,6 @@
 
     &.current>a {
       color: $secondary-color;
-
     }
   }
 
@@ -119,7 +118,7 @@
     text-transform: uppercase;
     padding: 1rem 0;
     font-weight: 300;
-    colore: #fff;
+    color: #fff;
     text-decoration: none;
     @include easeOut;
 
